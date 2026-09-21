@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const navigation = [
   { href: "/", label: "Home" },
-  { href: "/header", label: "Header" },
+  { href: "/#catalogus", label: "Onderdelen" },
 ];
 
 export default function Header() {
